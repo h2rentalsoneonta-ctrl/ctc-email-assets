@@ -1,0 +1,40 @@
+{
+  "images": [
+    {
+      "id": "cancun-mexico-1",
+      "city": "Cancun",
+      "country": "Mexico",
+      "source": "ai_generated",
+      "status": "approved",
+      "url": "https://h2rentalsoneonta-ctrl.github.io/ctc-email-assets/img/cancun-mexico-1.jpg",
+      "alt": "White-sand beach in Canc\u00fan in morning light",
+      "added_by": "team",
+      "published": true,
+      "created_at": "2026-11-05T17:57:14-05:00"
+    },
+    {
+      "id": "cancun-mexico-2",
+      "city": "Cancun",
+      "country": "Mexico",
+      "source": "ai_generated",
+      "status": "approved",
+      "url": "https://h2rentalsoneonta-ctrl.github.io/ctc-email-assets/img/cancun-mexico-2.jpg",
+      "alt": "Canc\u00fan coastline in late-afternoon light",
+      "added_by": "team",
+      "published": true,
+      "created_at": "2026-11-05T17:57:14-05:00"
+    },
+    {
+      "id": "lisbon-portugal-1",
+      "city": "Lisbon",
+      "country": "Portugal",
+      "source": "ai_generated",
+      "status": "approved",
+      "url": "https://h2rentalsoneonta-ctrl.github.io/ctc-email-assets/img/lisbon-portugal-1.jpg",
+      "alt": "Historic rooftops in Lisbon in morning light",
+      "added_by": "team",
+      "published": true,
+      "created_at": "2026-11-05T17:57:14-05:00"
+    }
+  ]
+}
