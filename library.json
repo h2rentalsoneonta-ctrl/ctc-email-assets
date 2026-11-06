@@ -35,6 +35,19 @@
       "added_by": "team",
       "published": true,
       "created_at": "2026-11-05T17:57:14-05:00"
+    },
+    {
+      "id": "scottsdale-united-states-20261106-d7f6bc",
+      "city": "Scottsdale",
+      "country": "United States",
+      "source": "ai_generated",
+      "status": "approved",
+      "published": true,
+      "url": "https://h2rentalsoneonta-ctrl.github.io/ctc-email-assets/img/scottsdale-united-states-20261106-d7f6bc.jpg",
+      "alt": "Saguaro cacti and desert mountains near Scottsdale",
+      "prompt": "Photorealistic travel photograph of desert landscape with tall saguaro cacti and distant mountains in early morning light in Scottsdale, Arizona, United States. Natural light, believable natural colour with a slightly cool ocean-blue grade, no oversaturation, calm and uncluttered composition, shot on a full-frame camera. Show the general area only: no hotels, no resort or branded buildings, no famous or identifiable landmarks, no people in close-up or facing the camera, no text, no signage, no logos, no watermarks. 16:9.",
+      "generator": "cloudflare-workers-ai/flux-1-schnell",
+      "created_at": "2026-11-06T09:53:46-05:00"
     }
   ]
 }
